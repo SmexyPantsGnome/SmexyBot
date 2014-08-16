@@ -1,9 +1,0 @@
-%sayit          - Replies with 1 of 9 random sayings
-
-%song text      - Stores toutube tag "text" into database to play from YouTube_playlist.php
-
-%twitter text   - Replies with Follow on twitter at http://twitter.com/"text"
-
-%song text      - Replies with The song "song title" is "video duration" seconds long.
-
-%quit           - Exits the channel and disconnects from the irc server.
